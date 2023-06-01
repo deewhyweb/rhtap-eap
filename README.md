@@ -1,6 +1,6 @@
 # Red Hat JBoss EAP on Red Hat Trusted Application Pipeline
 
-This is a simple application that demonstrates a basic deployment of an application on Red Hat Trusted Application Pipeline
+This is a simple application that demonstrates a basic deployment of a JBoss EAP application on Red Hat Trusted Application Pipeline
 
 To deploy this on RHTAP, click on "Create application" and enter the url for this repo in the "Git repository URL" field and click on "Import code".  From the next screen, click on "Add secret".
 
