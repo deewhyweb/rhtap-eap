@@ -6,7 +6,7 @@ To deploy this on RHTAP, click on "Create application" and enter the url for thi
 
 In the "Select or enter name" field, enter a name for the secret e.g. `registry-redhat-io`
 
-In the kef field enter: `.dockerconfigjson`
+In the key field enter: `.dockerconfigjson`
 
 In the value field enter the following, replacing xxxx with a token created from https://access.redhat.com/terms-based-registry/#/accounts
 
